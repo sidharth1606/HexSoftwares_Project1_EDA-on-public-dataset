@@ -1,5 +1,4 @@
-# HexSoftwares_Project_Name
-Exploratory Data Analysis (EDA) on a Public Dataset
+# HexSoftwares_Project 1_Exploratory Data Analysis (EDA) on a Public Dataset
 Task:
 Choose a simple, publicly available dataset (e.g., Iris, Titanic, or a dataset
 from Kaggle).
